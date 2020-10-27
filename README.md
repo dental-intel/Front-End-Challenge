@@ -1,4 +1,4 @@
-## Dental Intelligent - Front End Coding Challenge
+## Dental Intelligence - Front End Coding Challenge
 
 # Weather App
 
