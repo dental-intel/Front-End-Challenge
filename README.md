@@ -2,7 +2,7 @@
 
 # Weather App
 
-This is a chance to challenge your creativity and coding prowess, by building a JavaScript application to display weather information. The User Interface you develop should prompt the user for a location, and display the resulting weather. There are several free weather APIs available to choose from. Pick one, consume it, and display the information you feel is relevant, if you can use a location API as well to prepopulate the city as you type - event better!
+This is a chance to challenge your creativity and coding prowess, by building a JavaScript application to display weather information. The User Interface you develop should prompt the user for a location, and display the resulting weather. There are several free weather APIs available to choose from. Pick one, consume it, and display the information you feel is relevant, if you can use a location API as well to prepopulate the city as you type - even better!
 
 This is an open challenge and does not have a single expected solution. It is just to see how you think about and solve problems, but we want this to be something that you would be proud to deploy to production.
 Code should be submitted via a public Github repo and we will review it with you as part of a technical interview. Please include a README.md file with instructions you think will be necessary for us to run your solution.
